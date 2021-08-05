@@ -5,5 +5,28 @@ body {
 .jumbotron {
   background-image: linear-gradient(to right, rgba(255,255,255,0.3) 0%,rgba(189, 158, 158, 0.616) 100%), url(../img/train.jpg);
   background-position: bottom;
+  font-family: Comic Sans MS;
+  font-variant: small-caps;
+}
+.pack {
+  background-image: url(../img/train2.jpg);
+  background-position: top;
+  background-color: whitesmoke;
+  box-sizing: border-box;
+  border: blanchedalmond 20px solid;
+  padding: 20px;
 }
 
+.pack h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+}
+
+.pack p {
+  font-style: italic;
+}
+
+.song {
+  font-style: italic;
+  font-weight: bold;
+}
