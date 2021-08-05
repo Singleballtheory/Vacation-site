@@ -1,0 +1,9 @@
+body {
+  background-color: blanchedalmond;
+}
+
+.jumbotron {
+  background-image: linear-gradient(to right, rgba(255,255,255,0.3) 0%,rgba(189, 158, 158, 0.616) 100%), url(../img/train.jpg);
+  background-position: bottom;
+}
+
